@@ -172,10 +172,6 @@
 // // _ **POST (x++)** = use first, change later
 // // _ **PRE (++x)** = change first, use later
 
-Sure Suraj! 👦🔥
-Here is **each question + answer + kid-style explanation TOGETHER**.
-Short, simple, and super clear.
-
 ---
 
 # ✅ **1)**

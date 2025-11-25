@@ -5,3 +5,4 @@ class EvenOdd {
         System.out.println(type);
     }
 }
+// This program checks if a number is even or odd using a ternary operator.
